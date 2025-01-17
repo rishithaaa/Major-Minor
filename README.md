@@ -1,0 +1,2 @@
+- Assembled a Python-based analytics project using the Pandas library to analyse a dataset of 1,015 employees, focusing on insights related to demographics and pay  
+- Created  a python program for email validation, utilizing string manipulation and validation rules.
